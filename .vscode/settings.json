@@ -1,0 +1,4 @@
+{
+    "sarif-viewer.connectToGithubCodeScanning": "on",
+    "codeQL.createQuery.qlPackLocation": "c:\\Repos\\davidatm\\sast-c-demo"
+}
